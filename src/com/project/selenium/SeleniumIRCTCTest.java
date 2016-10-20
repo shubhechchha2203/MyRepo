@@ -111,7 +111,7 @@ public class SeleniumIRCTCTest {
 			
 			Assert.assertTrue(alllist.size()>0 & alllist.size()<100);
 			System.out.println(alllist.size());
-			System.out.println(s1);
+		
 			driver.close();
 			driver.switchTo().window(pw);
 			driver.close();
