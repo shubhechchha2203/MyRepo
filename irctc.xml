@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mySuite1" parallel="methods">
+	<tests>
+			
+		<test name="myTest1">
+			<classes>
+				<class name='com.project.selenium.SeleniumIRCTCTest'></class>
+				
+		
+			</classes>
+		</test>
+	</tests>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mySuite">
+	<tests>
+		<test name="myTest">
+			<classes>
+				<class name='com.project.selenium.SeleniumTesting1'></class>
+			</classes>
+		</test>
+	</tests>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mySuite1]">
+  <test name="myTest1(failed)">
+    <classes>
+      <class name="com.project.selenium.SeleniumIRCTCTest">
+        <methods>
+          <include name="paraTest"/>
+        </methods>
+      </class> <!-- com.project.selenium.SeleniumIRCTCTest -->
+    </classes>
+  </test> <!-- myTest1(failed) -->
+</suite> <!-- Failed suite [mySuite1] -->
